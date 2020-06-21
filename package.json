@@ -6,7 +6,8 @@
   "scripts": {
     "start": "webpack-dev-server",
     "dev": "webpack --mode=development",
-    "build": "webpack --mode=production"
+    "build": "webpack --mode=production",
+    "local": "npm start"
   },
   "author": "Luiz Carlos",
   "license": "ISC",
