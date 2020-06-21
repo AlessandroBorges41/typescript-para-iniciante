@@ -1,6 +1,6 @@
 ## Descrição
 
-Projeto Front-end para se começar com TypeScript de forma produtiva.
+Projeto Front-end para iniciar com TypeScript de forma produtiva.
 
 ## Motivação
 
